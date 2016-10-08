@@ -6,7 +6,7 @@ he is passionate about the web and native mobile apps.
 With strong communication, UX, and design skills, Roger has a unique set of skills as an Engineer.
 
 Roger has worked on large scale applications for clients in Australia & the UK:
-including Google, Commonweath Bank, Optus, Lexus, IAG, AusTrade, Freedom Furniture, Disney, Mars, Trinity Mirror, Royal Bank of Scotland and The Scottish Government.
+including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furniture, Disney, Mars, Trinity Mirror, Royal Bank of Scotland and The Scottish Government.
 
 
 ### Hometime On Demand native app
@@ -32,3 +32,26 @@ including Google, Commonweath Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnitu
 ![Hometime Control (List View)](hometime-control-1.png)
 ![Hometime Control (Details View)](hometime-control-2.png)
 ![Hometime Control (Map View)](hometime-control-3.png)
+
+### Hometime Client native app
+
+| What?            | Description                        |
+| ---              | ---                                | 
+| **Discipline**   | UX, Design, Code, DevOps           |
+| **Language**     | JavaScript, Objective-C            | 
+| **Technology**   | Google Firebase, React Native, Redux, iOS,   |
+| **Integration**  | Intercom |
+
+![Hometime Client app (iOS)](hometime-client.png)
+
+### Kayla Control
+
+| What?            | Description                        |
+| ---              | ---                                | 
+| **Discipline**   | UX, Design, Code, DevOps           |
+| **Language**     | JavaScript, HTML5, CSS3            | 
+| **Technology**   | AWS, MongoDB, NodeJS, Meteor, React |
+| **Integration**  | Intercom, Mandrill, Google Calendar, Xero, Tookan |
+
+![Kayla Control (List View)](kayla-control-1.png)
+![Kayla Control (Details View)](kayla-control-2.png)
