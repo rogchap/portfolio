@@ -39,7 +39,7 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 | ---              | ---                                | 
 | **Discipline**   | UX, Design, Code, DevOps           |
 | **Language**     | JavaScript, Objective-C            | 
-| **Technology**   | Google Firebase, React Native, Redux, iOS,   |
+| **Technology**   | Google Firebase, React Native, Redux, iOS  |
 | **Integration**  | Intercom |
 
 ![Hometime Client app (iOS)](hometime-client.png)
@@ -55,3 +55,15 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 
 ![Kayla Control (List View)](kayla-control-1.png)
 ![Kayla Control (Details View)](kayla-control-2.png)
+
+### Kayla Host application
+
+| What?            | Description                        |
+| ---              | ---                                | 
+| **Discipline**   | UX, Design, Code, DevOps           |
+| **Language**     | JavaScript, HTML5, CSS3            | 
+| **Technology**   | AWS, MongoDB, NodeJS, Meteor, React |
+| **Integration**  | Intercom, Mandrill |
+
+![Kayla Host](kayla-host-1.png)
+![Kayla Host (Booking View)](kayla-host-2.png)
