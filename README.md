@@ -67,3 +67,16 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 
 ![Kayla Host](kayla-host-1.png)
 ![Kayla Host (Booking View)](kayla-host-2.png)
+
+### Kayla Marketing site
+
+| What?            | Description                        |
+| ---              | ---                                | 
+| **Discipline**   | Code, DevOps, Photography          |
+| **Language**     | JavaScript, HTML5, CSS3, SVG       | 
+| **Technology**   | AWS S3, React |
+| **Integration**  | Intercom |
+
+![Kayla](kayla-1.png)
+![Kayla](kayla-2.png)
+![Kayla](kayla-3.png)
