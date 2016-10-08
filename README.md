@@ -1,6 +1,14 @@
 # Roger Chapman
 ## Award winning Software Engineer, Creative Technologist and UX Designer
 
+Roger Chapman has over 12 years experience in Software Engineering;
+he is passionate about the web and native mobile apps.
+With strong communication, UX, and design skills, Roger has a unique set of skills as an Engineer.
+
+Roger has worked on large scale applications for clients in Australia & the UK:
+including Google, Commonweath Bank, Optus, Lexus, IAG, AusTrade, Freedom Furniture, Disney, Mars, Trinity Mirror, Royal Bank of Scotland and The Scottish Government.
+
+
 ### Hometime On Demand native app
 
 | What?            | Description                        |
