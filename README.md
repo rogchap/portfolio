@@ -160,4 +160,23 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 ![Lexus Car](images/lexus-1.png)
 ![Lexus Car](images/lexus-2.png)
 ![Lexus Car](images/lexus-3.png)
-![Lexus Car](images/lexus.gif)
+
+### CBA - Where's My Wallet online Gigapixel "tressure hunt" game
+
+| What?            | Description              |
+| ---              | ---                      | 
+| **Discipline**   | Code, DevOps               |
+| **Language**     | JavaScript, HTML5, CSS3                     | 
+| **Technology**   | AWS, NodeJS, WebGL         |
+
+![CBA Where's My Wallet](images/wheresmywallet.png)
+
+### AusTrade - E-reader native app/platform
+
+| What?            | Description              |
+| ---              | ---                      | 
+| **Discipline**   | Code               |
+| **Language**     | Objective-C, Java, JavaScript                     | 
+| **Technology**   | iOS, Android, NodeJS         |
+
+![AusTrade Unlimited](images/austrade.png)
