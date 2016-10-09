@@ -193,7 +193,7 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 
 ![Noiseboard](images/noise.png)
 
-### Google - Movember Games: WebRTC controled games
+### Google - Movember Games: WebRTC controlled games
 
 | What?            | Description              |
 | ---              | ---                      | 
