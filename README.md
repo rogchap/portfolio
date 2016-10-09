@@ -109,18 +109,18 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 | **Discipline**   | UX, Code, DevOps                   |
 | **Language**     | JavaScript, HTML5, CSS3            | 
 | **Technology**   | AWS, NodeJS, WebGL, WebRTC, WebAudioAPI  |
-| **Awards**       | W3, FWA                            |
+| **Awards**       | W3, FWA, CLIO                            |
 
 ![ARCF - The One](images/the-one-1.png)
 ![ARCF - The One](images/the-one-2.png)
 
 ### CBA - Wallet Run console game
 
-| What?            | Description                        |
-| ---              | ---                                | 
-| **Discipline**   | Code, Game Design                           |
+| What?            | Description            |
+| ---              | ---                    | 
+| **Discipline**   | Code, Game Design      |
 | **Language**     | C#                     | 
-| **Technology**   | Unity 3D, Kinect       |
+| **Technology**   | Unity 3D, Microsoft Kinect       |
 
 ![CBA - Wallet Run](images/wallet-run-1.png)
 ![CBA - Wallet Run](images/wallet-run-2.png)
@@ -135,3 +135,29 @@ including Google, Commonwealth Bank, Optus, Lexus, IAG, AusTrade, Freedom Furnit
 | **Technology**   | iOS, iPhone & iPad       |
 
 ![Freedom Furniture app](images/freedom-app.png)
+
+### Optus - Shark detection buoy (Clever Buoy)
+
+| What?            | Description              |
+| ---              | ---                      | 
+| **Discipline**   | Consultancy, Code (Database Server) |
+| **Language**     | JavaScript              | 
+| **Technology**   | NodeJS, TCP, Satellite, Sonar  |
+| **Awards**   | 8 Cannes Lions, SXSW Innovation, 5 D&AD Pencil |
+
+![Optus Clever Buoy](images/cb-1.png)
+![Optus Clever Buoy](images/cb-2.png)
+![Optus Clever Buoy](images/cb-3.png)
+
+### Lexus - Reactive Heart-Beat car/paint
+
+| What?            | Description              |
+| ---              | ---                      | 
+| **Discipline**   | Consultancy, Electronics |
+| **Language**     | C++                      | 
+| **Technology**   | Arduino                  |
+
+![Lexus Car](images/lexus-1.png)
+![Lexus Car](images/lexus-2.png)
+![Lexus Car](images/lexus-3.png)
+![Lexus Car](images/lexus.gif)
